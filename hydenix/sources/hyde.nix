@@ -3,10 +3,10 @@
 let
   # https://github.com/prasanthrangan/hyprdots/commit/2a0abfd56ce951e75213a1a91e2743a859304713
   hyprdotsRepo = pkgs.fetchFromGitHub {
-    owner = "prasanthrangan";
+    owner = "haivubui";
     repo = "hyprdots";
-    rev = "204edc16847f8a67dd32a2b37c6139af88f5228a";
-    sha256 = "sha256-ApdCWMWp/6vM4jE/AKzGQYyVzLzBSGjXWLdXZWUeo5o=";
+    rev = "9bdf5126ab79f0996e954e90f92e11c04ed5e4d7";
+    sha256 = "1p9h4p01avs0x5ymkkcz1m0p7wgilh87g5zx69749xqxz0r680as";
   };
 
   # polkitkdeauth = ''
